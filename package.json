@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "prop-types": "^15.8.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
@@ -16,5 +17,13 @@
     "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^1.3.0",
     "vite": "^2.9.5"
-  }
+  },
+  "description": "Este es mi repositorio de gitexpert app con React",
+  "main": "vite.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
